@@ -1,0 +1,18 @@
+[
+{ 
+    "nama" : "Tajri Hasbi Ilham",
+    "umur" : 20,
+    "nim" : "2217020177",
+    "lulus" : false,
+    "hobby" : ["ML", "makan"],
+    "pembimbing" : "Haditya"
+},
+{ 
+    "nama" : "Tajri",
+    "umur" : 21,
+    "nim" : "2217020179",
+    "lulus" : true,
+    "hobby" : ["ngoding", "healing"],
+    "pembimbing" : "Ozzy"
+} 
+]
